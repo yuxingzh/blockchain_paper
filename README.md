@@ -1,6 +1,6 @@
 # blockchain_paper
 
-
+Research-Article:
 Bitter to Better—How to Make Bitcoin a Better Currency (Conference: International Conference on Financial Cryptography and Data Security)
 
 Majority is not enough: bitcoin mining is vulnerable (Communications of the ACM Volume 61 Issue 7 July 2018)
@@ -16,6 +16,9 @@ The Quest for Scalable Blockchain Fabric:Proof-of-Work vs. BFT Replication(Marko
 EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts[USENIX 2021]
 
 SMARTSHIELD: automatic smart contract protection made easy[IEEE SANER 2020]
+
+
+Survey:
 
 A Survey on Blockchain Technology: Evolution, Architecture and Security  [IEEE Access 2021]
 
