@@ -16,3 +16,13 @@ The Quest for Scalable Blockchain Fabric:Proof-of-Work vs. BFT Replication(Marko
 EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts
 
 SMARTSHIELD: automatic smart contract protection made easy
+
+A Survey on Blockchain Technology: Evolution, Architecture and Security
+
+A survey of blockchain from security perspective
+
+A survey on the security of blockchain systems
+
+Published in Journal: Future Generation Computer Systems (2020)
+
+Security enhancement technologies for smart contracts in the blockchain: A survey
