@@ -1,6 +1,7 @@
 # blockchain_paper
 
 Research-Article:
+
 Bitter to Better—How to Make Bitcoin a Better Currency (Conference: International Conference on Financial Cryptography and Data Security)
 
 Majority is not enough: bitcoin mining is vulnerable (Communications of the ACM Volume 61 Issue 7 July 2018)
