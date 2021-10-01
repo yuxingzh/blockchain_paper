@@ -24,3 +24,5 @@ A survey of blockchain from security perspective[Journal of Banking and Financia
 A survey on the security of blockchain systems[Future Generation Computer Systems 2020]
 
 Security enhancement technologies for smart contracts in the blockchain: A survey[Transactions on Emerging Telecommunications Technologies 2021]
+
+SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies[IEEE S&P 2015]
