@@ -13,9 +13,9 @@ An Analysis of Anonymity in the Bitcoin System(IEEE 2011)
 
 The Quest for Scalable Blockchain Fabric:Proof-of-Work vs. BFT Replication(Marko Vukolic iNetSec 2015)
 
-EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts
+EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts[USENIX 2021]
 
-SMARTSHIELD: automatic smart contract protection made easy
+SMARTSHIELD: automatic smart contract protection made easy[IEEE SANER 2020]
 
 A Survey on Blockchain Technology: Evolution, Architecture and Security  [IEEE Access 2021]
 
