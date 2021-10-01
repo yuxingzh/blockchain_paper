@@ -17,12 +17,10 @@ EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts
 
 SMARTSHIELD: automatic smart contract protection made easy
 
-A Survey on Blockchain Technology: Evolution, Architecture and Security
+A Survey on Blockchain Technology: Evolution, Architecture and Security  [IEEE Access 2021]
 
-A survey of blockchain from security perspective
+A survey of blockchain from security perspective[Journal of Banking and Financial Technology 2019]
 
-A survey on the security of blockchain systems
+A survey on the security of blockchain systems[Future Generation Computer Systems 2020]
 
-Published in Journal: Future Generation Computer Systems (2020)
-
-Security enhancement technologies for smart contracts in the blockchain: A survey
+Security enhancement technologies for smart contracts in the blockchain: A survey[Transactions on Emerging Telecommunications Technologies 2021
