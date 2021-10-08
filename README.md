@@ -18,6 +18,14 @@ EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts[USENIX 2021]
 
 SMARTSHIELD: automatic smart contract protection made easy[IEEE SANER 2020]
 
+Ethereum White Paper(https://ethereum.org/en/whitepaper/
+
+Ethereum Yellow Paper(https://ethereum.github.io/yellowpaper/paper.pdf)
+
+solidity_tutorials(https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html)
+
+
+
 
 Survey:
 
