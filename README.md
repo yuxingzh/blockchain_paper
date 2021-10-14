@@ -24,7 +24,7 @@ Ethereum Yellow Paper(https://ethereum.github.io/yellowpaper/paper.pdf)
 
 solidity_tutorials(https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html)
 
-Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited
+[Smart Contract]Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited Daniel Perez and Ben Livshits. USENIX '21 Security Symposium.
 
 
 
