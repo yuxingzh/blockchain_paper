@@ -26,7 +26,7 @@ solidity_tutorials(https://ethereumbuilders.gitbooks.io/guide/content/en/solidit
 
 [Smart Contract]Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited Daniel Perez and Ben Livshits. USENIX '21 Security Symposium.
 
-
+The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts USENIX Security '19
 
 Survey:
 
