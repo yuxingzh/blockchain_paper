@@ -39,3 +39,8 @@ A survey on the security of blockchain systems[Future Generation Computer System
 Security enhancement technologies for smart contracts in the blockchain: A survey[Transactions on Emerging Telecommunications Technologies 2021]
 
 SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies[IEEE S&P 2015]
+
+
+
+Q:
+what's uncle block
