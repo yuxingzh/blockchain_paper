@@ -26,6 +26,8 @@ solidity_tutorials(https://ethereumbuilders.gitbooks.io/guide/content/en/solidit
 
 [Smart Contract]Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited Daniel Perez and Ben Livshits. USENIX '21 Security Symposium.
 
+Erays: Reverse Engineering Ethereum’s Opaque Smart Contracts[USENIX Security '18]
+
 The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts USENIX Security '19
 
 Survey:
@@ -40,6 +42,7 @@ Security enhancement technologies for smart contracts in the blockchain: A surve
 
 SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies[IEEE S&P 2015]
 
+SoK: Decentralized Finance (DeFi) [arXiv’21]
 
 
 Q:
