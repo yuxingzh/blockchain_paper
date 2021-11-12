@@ -28,7 +28,18 @@ solidity_tutorials(https://ethereumbuilders.gitbooks.io/guide/content/en/solidit
 
 Erays: Reverse Engineering Ethereum’s Opaque Smart Contracts[USENIX Security '18]
 
-The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts USENIX Security '19
+The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts[USENIX Security '19]
+
+A Data Science Approach for Detecting Honeypots in Ethereum[IEEE ICBC 20]
+
+Honeypot Contract Risk Warning on Ethereum Smart Contracts[IEEE JCC 20]
+
+An Adversarial Smart Contract Honeypot in Ethereum[CMES 21]
+
+Phishing Scam Detection on Ethereum: Towards Financial Security for Blockchain Ecosystem[IJCAI-20]
+
+Who Are the Phishers? Phishing Scam Detection on Ethereum via Network Embedding[IEEE SMC 20]
+
 
 Survey:
 
